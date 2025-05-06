@@ -15,12 +15,14 @@ The primary goal of this project is to provide a practical implementation of the
 ## Prerequisites
 Ensure you have Python installed on your system (the paper implies Python usage ). The following Python libraries are essential, as suggested by the paper's methodology:   
 
-pandas (for data manipulation)
-numpy (for numerical operations)
-scikit-learn (for general machine learning tasks and metrics)
-LightGBM (the chosen classifier )   
-Optuna (for hyperparameter tuning )   
-imbalanced-learn 
+- pandas (for data manipulation)
+- numpy (for numerical operations)
+- scikit-learn (for general machine learning tasks and metrics)
+- LightGBM (the chosen classifier )   
+- Optuna (for hyperparameter tuning )   
+- imbalanced-learn 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 -  [Link to Paper](https://sesjournal.com/index.php/1/article/view/239/221)
 -  Email: abuzarbhutta@gmail.com
