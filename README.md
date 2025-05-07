@@ -22,10 +22,7 @@ Ensure you have Python installed on your system (the paper implies Python usage 
 - Optuna (for hyperparameter tuning )   
 - imbalanced-learn 
 
------------------------------------------------------------------------------------------------------------------------------------------
 
--  [Link to Paper](https://sesjournal.com/index.php/1/article/view/239/221)
--  Email: abuzarbhutta@gmail.com
 
 @article{ali2025heart,
   title={Early Heart Attack Prediction by Using Machine Learning},
@@ -37,6 +34,14 @@ Ensure you have Python installed on your system (the paper implies Python usage 
   year={2025},
   url={https://sesjournal.com/index.php/1/article/view/239}
 }
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+-  [Link to Paper](https://sesjournal.com/index.php/1/article/view/239/221)
+-  Email: abuzarbhutta@gmail.com
+
+
 
 
 
