@@ -23,19 +23,6 @@ Ensure you have Python installed on your system (the paper implies Python usage 
 - imbalanced-learn 
 
 
-
-@article{ali2025heart,
-  title={Early Heart Attack Prediction by Using Machine Learning},
-  author={Ali, Sarang and Shahid, Abuzar and Mumtaz, Gohar},
-  journal={Spectrum of Engineering Sciences},
-  volume={3},
-  number={4},
-  pages={36--48},
-  year={2025},
-  url={https://sesjournal.com/index.php/1/article/view/239}
-}
-
-
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 -  [Link to Paper](https://sesjournal.com/index.php/1/article/view/239/221)
